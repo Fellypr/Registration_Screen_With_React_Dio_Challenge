@@ -1,0 +1,92 @@
+.containe{
+    background-color: transparent;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 77%;
+    width: 374px;
+    height: 450px;
+    translate: -50% -50%;
+}
+
+
+
+.nome{
+    position: relative;
+    top: 42px;
+    background-color: transparent;
+    width: 275px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid rgb(71, 71, 71);
+    color: white;
+    background-color: transparent;
+}
+.email{
+    position: relative;
+    top: 54px;
+    width: 275px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid rgb(71, 71, 71);
+    background-color: transparent;
+    color: white;
+}
+.senha{
+    background-color: transparent;
+    position: relative;
+    top: 66px;
+    width: 275px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid rgb(71, 71, 71);
+    color: white;
+}
+#inpuout::placeholder{
+    color: white;
+
+}
+
+
+
+
+.criarminhaconta{
+    background-color: #e4105d;
+    font-size: 19px;
+    position: relative;
+    top: 90px;
+    width: 280px;
+    height: 41px;
+    
+}
+.criarminhaconta:hover{
+    background-color: #9c023a;
+}
+
+
+
+
+
+
+
+
+.aviso{
+    position: absolute;
+    top: 77%;
+}
+
+
+.jatenhoumaconta{
+    position: absolute;
+    left: 4px;
+    top: 95%;
+    font-size:14px ;
+}
+.fezerlogin{
+    position: absolute;
+    font-size: 14px;
+    top: 94.8%;
+    left: 113px;
+    color: rgb(31, 255, 31);
+
+}

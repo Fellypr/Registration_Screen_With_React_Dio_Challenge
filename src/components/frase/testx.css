@@ -1,0 +1,11 @@
+p{
+    color: #ffff;
+}
+.text{
+    width: 388px;
+    height: 308px;
+    position: absolute;
+    left: 3em;
+    font-size: 32px;
+    top: 99px;
+}
